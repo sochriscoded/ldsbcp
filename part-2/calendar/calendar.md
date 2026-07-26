@@ -6,10 +6,11 @@ Likewise, General Conference happens twice a year on a Saturday and Sunday. Thes
 
 ## The Type of Feasts
 
-**FEASTS OF JESUS AND HIS LIFE (Major and Significant)**
-**_FEASTS OF JESUS IN THE RESTORATION (Major and significant)_**
+**FEASTS OF JESUS AND HIS LIFE (Holy Days)**
+**_FEASTS OF JESUS IN THE RESTORATION (Holy Days)_**
 **_Major feasts in the restoration (major)_**
 **Major feasts, not essential but significant.**
+
 Minor or lesser feasts
 
 **A note about feasts:**
@@ -100,7 +101,7 @@ Not every feast is given on its exact historical day. For example: Winter Quarte
 14 c
 15 d
 16 e
-17 f **Relief Society Founded**
+17 f **_Relief Society Founded_**
 18 g
 19 A **St. Joseph, Caretaker of Jesus**
 20 b
@@ -119,9 +120,9 @@ Not every feast is given on its exact historical day. For example: Winter Quarte
 ## April
 
 1 g
-2 A **B H Roberts**
+2 A BH Roberts
 3 b **_THE LORD'S VISITATION TO THE KIRKLAND TEMPLE_**
-4 c **Elder George Albert Smith**
+4 c **George Albert Smith**
 5 d **_THE FIRST VISION_**
 6 e **_THE RESTORATION OF THE CHURCH_**
 7 f **Wilford Woodruff**
@@ -220,7 +221,7 @@ Not every feast is given on its exact historical day. For example: Winter Quarte
 
 1 g
 2 A
-3 b
+3 b **St. Thomas Day (Modern)**
 4 c **Independence Day (USA only)**
 5 e
 6 d
@@ -338,17 +339,15 @@ Not every feast is given on its exact historical day. For example: Winter Quarte
 16 b
 17 c Elder Jose Mackintosh, Servant of God, Martyr in Russia
 18 d **Luke the Evangelist**
-19 e **Joseph F. Smith, Prophet of the Lord**
-     **Vicerious Work for Those Deceased**
+19 e **Joseph F. Smith, Prophet of the Lord** AND **Vicerious Work for Those Deceased**
 20 f
 21 g
 22 A
 23 b **James of Jerusalem, Brother of the Lord**
-24 c All Missionaries Died or Injured During Their Service
+24 c All Missionaries Day
 25 d Bishop David W. Patten, Gideon Carter, Patrick O'Bannion, Martyrs
 26 e The Willy and Martin Handcart Company, Pioneers of our Lord
-27 f Helmuth Hubener, Martyr for God, Rudolf Wobbe and Karl-Heinz Schnibbe
-     Solemnity of Executive Order 44
+27 f Helmuth Hubener, Martyr for God, AND **Solemnity of Executive Order 44**
 28 g **Simon and Jude Apostles of the Lord**
 29 A **The Rescuers of the Pioneers, Servants of God**
 30 b **The Matyrs of Haun's Mill**
@@ -360,7 +359,7 @@ Not every feast is given on its exact historical day. For example: Winter Quarte
 2 e **All Faithfully Departed (All Souls)**
 3 f **Ephraim Hanks and George D. Grants, Servants of God**
 4 g **Solemnity of the Expulsion from Zion**
-5 A **Andrew Barber, Martyr**
+5 A Andrew Barber, Martyr
 6 b
 7 c
 8 d
@@ -394,7 +393,7 @@ Not every feast is given on its exact historical day. For example: Winter Quarte
 3 A
 4 b
 5 c Eliza R Snow
-6 d Nicholas, Bishop of Myra (cultural)
+6 d **Nicholas, Bishop of Myra**
 7 e
 8 f
 9 g **Elder Franklin D Richards**
@@ -409,7 +408,7 @@ Not every feast is given on its exact historical day. For example: Winter Quarte
 18 b
 19 c
 20 d
-21 e **St. Thomas**
+21 e **St. Thomas (Traditional)**
 22 f
 23 g **Birth of Joseph Smith**
 24 A **CHRISTMAS EVE**
@@ -421,15 +420,3 @@ Not every feast is given on its exact historical day. For example: Winter Quarte
 30 g **Spencer W Kimball**
 31 A **New Year's Eve/The Holy Family**
 
-
-### Other people to include This list will grow as I remember them
-
-Additional LDS Martyrs
-
-    Edward Partridge (1793–1840) – First Bishop of the Church, tarred and feathered, died from the abuse.
-
-    Andrew Kimball (1858–1924) – Father of Spencer W. Kimball, suffered extreme persecution.
-
-    Alma P. Richards (1890–1963) – Olympic athlete, but also endured persecution for his faith.
-
-    James H. Moyle (1858–1946) – Early missionary, endured severe mob violence.
