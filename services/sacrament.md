@@ -62,7 +62,7 @@ Holy and Immortal Father,
 
 # The Liturgy of the Sacrament
 
-### The Profession of Faith
+## The Profession of Faith
 
 *The Celebrant then says*
 
@@ -130,7 +130,7 @@ Grant these our prayers, O Father, in Jesus Christ's name, our only Mediator and
 
 *if no authorized inidividual is availabe to celebrate the Sacrament of Eucharist, then the service concludes with (will insert later)*
 
-### The Confession of Sin
+## The Confession of Sin
 
 *The Bishop or their authorized representative says the following*
 
@@ -157,20 +157,87 @@ and walk in thy ways
 to the honor and glory of thy Name;
 through Jesus Christ our Lord. Amen.
 
+*The Bishop or Authorized Representative then says:*
+
+May the Lord Jesus Christ, who is our Advocate with the Father,
+Grant you forginvess of sins, and deliver you from trials,
+confirm and strengthen you in all goodness,
+and grant you eternal life. Amen.
+
+### The Peace
+
+*All Stand. The Celebrant says to the people:*
+
+O: May the Peace of the Lord always be with you:
+R: And Also with you
+
+*The Sign of Peace is given, as it was in ancient times*
+*(The Sign of Peace is a greeting of peace in a manner socially custom to the region)*
+
+## The Holy Sacrament
+
+### The Offratory
+
+*(Note: In ancient times, tithes and offerings were given publicly and brought to the altar, however in modern times, tithes are given privately. Therefore, there is no need to collect offerings during the sacrament service, although an offeratory sentance has been provided as is customary.)*
+
+*The Celebrant then says the following verses or one that is appropriate:*
+
+Walk in love, as Christ loved us and gave himself for us, an
+offering and sacrifice to God. Let us with gladness present the offerings of our life and
+labor to the Lord.
+
+*A hymn may be sung if time permits*
 
 
+### The Great Thanksgiving
 
-### the Sanctus
+*The people remain standing. The Celebrant, faces them and sings or says*
 
-### The Blessing of the Bread
+*The Lord be with you.*
 
-### The Breaking of the Bread
+P: And also with you.
+C: Lift up your hearts.
+P: We lift them to the Lord.
+C: Let us give thanks to the Lord our God.
+P: It is right to give Him thanks and praise.
 
-### The Distribution of the Bread
+*Then, facing the People, the Celebrant proceeds*
 
-### The Blessing of the Water/Wine
+It is right, and a good and joyful thing, always and every-
+where to give thanks to thee, Father Almighty, Creator of
+heaven and earth. Therefore we praise thee, joining our voices with Angels and
+Archangels and with all the company of heaven, who for ever
+sing this hymn to proclaim the glory of your Name:
 
-### the Distribution of the Water/Wine
+#### The Sanctus
+
+*The Following May be Said or Sung*
+
+Holy, Holy, Holy Lord, God of power and might,
+heaven and earth are full of your glory.
+Hosanna in the highest.
+Blessed is he who comes in the name of the Lord.
+Hosanna in the highest.
+
+Holy and gracious Father: In Thy infinite love you made us your children a world, that and, when we had fallen into sin and become
+subject to evil and death, you, in your mercy, sent Jesus
+Christ, your only and eternal Son, to share our human
+nature, to live and die as one of us, to reconcile us to you, the
+God and Father of all.
+
+He stretched out his arms upon the cross, and offered himself,
+in obedience to your will, a perfect sacrifice for the whole
+world.
+
+## The Blessing of the Bread
+
+## The Breaking of the Bread
+
+## The Distribution of the Bread
+
+## The Blessing of the Water/Wine
+
+## the Distribution of the Water/Wine
 
 ## The Benediction
 
