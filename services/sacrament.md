@@ -62,31 +62,40 @@ Holy and Immortal Father,
 
 # The Liturgy of the Sacrament
 
-## The Profession of Faith
+### The Profession of Faith
 
-(*The following profession of faith or an article of faith may be recited. Other professions of faith are found elsewhere in the book*)
+*The Celebrant then says*
+
+O: Let us Profess our Faith Before God and This Congregation as Witnesses
+
+R:
 
 We believe in God, the Eternal Father,
-The Almighty Father of our Spirits,
-Creator of all things seen and unseen.
+and in His Only Begotten Son, Jesus Christ, Our Lord.
+He came down from heaven,
+For us men and for our salvation
+and by the Holy Spirit was born of the Virgin Mary,
+and became man.
 
-We believe in the Son, Jesus Christ,
-The Only Begotten Son of the God in the flesh,
-The Firstborn of God, One with God in Unity and Purpose,
-He came down from heaven for us and for our salvation,
-Born of Mary, incarnate through the Holy Spirit, He became man.
-He Suffered under pontius Pilate, was crucified, died and was buried.
-On the third day he rose again, in accordance with the scriptures.
-He will come again in Glory to judge the living and the dead,
-and his kingdom shall have no end.
+For our sake he was crucified under Pontius Pilate,
+he suffered death and was buried,
+and rose again on the third day
+in accordance with the Scriptures.
+He ascended into heaven
+and is seated at the right hand of the Father.
 
-I believe in the Holy Spirit, the Comforter, the giver of Light,
-Who with the Father and the Son is worshipped and Glorified.
+He will come again in glory
+to judge the living and the dead
+and his kingdom will have no end.
 
-I believe in the Godhead, the Father, Son and Holy Spirit. Not one in essense, nor in being, but one in purpose: That all may gain eternal life and have joy.
+We believe in the Holy Spirit, The Comforter, the giver of life,
+We believe salvation through the Atonement of Jesus Christ,
+One Holy, True, and Apostolic Church,
+One Baptism for the remission of sins,
+and obedience to the commandments and ordinances of God.
+We look for the resurrection of the dead,
+and Eternal Life and Exhaltation in the world to come. Amen.
 
-I believe in One, Holy, Prophetic, and Apostolic Church,
-Restored in these days by the prophet Joseph Smith for the salvation of all mankind, I believe in Faith in the Lord Jesus Christ, Repentence unto forgivenness, baptism for the remission of sins, and ressurection through our Lord Jesus Christ and eternal light and life in the world to come.
 
 ## Prayers for the People
 
@@ -103,15 +112,53 @@ Restored in these days by the prophet Joseph Smith for the salvation of all mank
 **People:**: Let Thy Spirit be with Him Lord.
 
 **C**: We pray for the Apostles and their special witness
-**People:**: Let them teach thy Truth powerfully, o Lord.
+**People:**: Lord, let thy Spirit be with them.
 
 **C**: We pray for the General Authorities, and all other general officers of the church
 **People:**: Lord, let thy Spirit be with them.
 
+**C**: We pray for our Stake President (NAME) and our Bishop (NAME)
+**People:**: Lord, let thy Spirit be with them.
 
-## The Eucharist Proper
+**C**: We pray for all those who have passed into the spirit world, but especially for (NAMES of particular individuals as needed)
+**People:**: Lord, grant them light eternal.
 
-### The Introduction
+**C**: We pray for those who are sick, ill, or afflicted in body, mind, or spirit, especially for (NAMES of particular individuals as needed)
+**People:**: Lord, let thy Spirit be with them.
+
+Grant these our prayers, O Father, in Jesus Christ's name, our only Mediator and Advocate. Amen.
+
+*if no authorized inidividual is availabe to celebrate the Sacrament of Eucharist, then the service concludes with (will insert later)*
+
+### The Confession of Sin
+
+*The Bishop or their authorized representative says the following*
+
+Let us humbly confess our sins unto Almighty God.
+
+*(Silence may be kept.)*
+
+*the bishop/celebrant and the people together say the following:*
+
+Almighty God, Our Father in Heaven,
+Father of our Lord Jesus Christ,
+We acknowledge that we have sinned against thee,
+by thought, word, and deed,
+by what we have done,
+and what we have not done.
+We have not loved thee with our whole hearts;
+We have not loved our neighbors as ourselves,
+and we have failed to uphold our covenants and promises to thee.
+We are truly sorry and we humbly repent.
+Have mercy upon us and grant by taking this sacrament we may renew our promises to thee,
+and find by the mercy of thy son, Jesus Christ, eternal light and life,
+that we may delight in thy will,
+and walk in thy ways
+to the honor and glory of thy Name;
+through Jesus Christ our Lord. Amen.
+
+
+
 
 ### the Sanctus
 
