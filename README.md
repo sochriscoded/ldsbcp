@@ -57,7 +57,7 @@ PART 2: The "Prayer Book" portion of the prayer book
 3. The Kinds and Types of Prayer
    1. Extemperanous Prayer and Contemplation
    2. Private Prayers and Meditation
-   3. Psalms and Singing
+   3. Psalms and Singing **(Active Development)**
    4. Group Prayer
    5. Services, Ordinances and Events
    6. Priesthood Offices, Duties and Rights
@@ -72,7 +72,7 @@ PART 2: The "Prayer Book" portion of the prayer book
 3. General Prayers and Liturgies
 4. The Daily Office
 5. Prayers and Liturgies before and during services:
-   1. Sacrament Meeting
+   1. Sacrament Meeting **(v0.0.1)**
    2. Conferences
    3. Councils and Meetings
    4. Baptisms and Confirmations
@@ -106,8 +106,8 @@ As the Mormon Movement features unique moments in history that diverge from the 
 3. A unique holiday season in the summer commemorating LDS-specific events. While they do not all fall on their historic day, I did try to fit them together in such a way that allowed for the creation of a new holiday celebrating these unique aspects of LDS culture and belief.
 4. General Conference weekend is marked as a two-day floating holiday, the dates of which are set by the Church. They are to be treated as sacred feast days akin to Easter or Christmas.
 5. Major feasts celebrating the Restoration.
-6. A high-church format for sacrament meetings and other public ordinances, derived from traditional Eucharist services. Temple liturgy has not and will never be included in this document to preserve its sacredness within LDS theology. Likewise, these formats are for edification only, and should only be used as directed by General Authorities and Leaders of the Church. If they are not approved for use, then they exist for YOUR edification only.
-8. The Lectionary will include the Book of Mormon, Doctrine and Covenants, and Pearl of Great Price.
+6. A high-church format for sacrament meetings and other public ordinances, derived from traditional Eucharist services. Temple liturgy has not and will never be included in this document to preserve its sacredness within LDS theology. *Likewise, these formats are for edification only, and should only be used as directed by General Authorities and Leaders of the Church. If they are not approved for use, then they exist for YOUR edification only.*
+7. The Lectionary will include the Book of Mormon, Doctrine and Covenants, and Pearl of Great Price.
 
 ## Suggestions and Changes
 

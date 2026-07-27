@@ -1,3 +1,8 @@
+# Introduction
+
+**NOTE: This service should not be used unless explict permission is granted by one in authority. This service exists both as an exercise to see what liturgical prayer looks like and how might it modify a sacrament meeting, but also as a grounding bedrock for the remainder of the prayer book, as the sacrament is the central focus throughout the rest of Christianity.**
+
+
 # The Liturgy of the Word
 
 ## The Opening Hymn
@@ -219,32 +224,90 @@ Hosanna in the highest.
 Blessed is he who comes in the name of the Lord.
 Hosanna in the highest.
 
-Holy and gracious Father: In Thy infinite love you made us your children a world, that and, when we had fallen into sin and become
-subject to evil and death, you, in your mercy, sent Jesus
-Christ, your only and eternal Son, to share our human
-nature, to live and die as one of us, to reconcile us to you, the
-God and Father of all.
+Holy and Mighty Father, You in your mercy sent your only Begotten Son, Jesus Christ, who by taking upon Himself the flesh of mortality, showed us the way to eternal life and exhaltation, that we through our obedience to Him, might become like unto Thee, our Eternal, and Heavenly Father.
 
 He stretched out his arms upon the cross, and offered himself,
 in obedience to your will, a perfect sacrifice for the whole
 world.
 
-## The Blessing of the Bread
+On the night he was handed over to suffering and death, our
+Lord Jesus Christ took bread; and when he had given thanks
+to you, he broke it, and gave it to his disciples, and said, "Take,
+eat: This is my Body, which is given for you. Do this for the
+remembrance of me."
 
-## The Breaking of the Bread
+After supper he took the cup of wine; and when he had given
+thanks, he gave it to them, and said, "Drink this, all of you:
+This is my Blood of the new Covenant, which is shed for you
+and for many for the forgiveness of sins. Whenever you drink
+it, do this for the remembrance of me."
 
-## The Distribution of the Bread
+Therefore we proclaim the mystery of faith:
 
-## The Blessing of the Water/Wine
+*Celebrant and People*
 
-## the Distribution of the Water/Wine
+Christ has died.
+Christ is risen.
+Christ will come again.
+
+The Celebrant continues
+
+We celebrate the memorial of our redemption, O Father, in
+this sacrifice of praise and thanksgiving. Recalling his death,
+resurrection, and ascension, we offer you these gifts.
+
+
+## The Blessing and Consecration of the Bread and Water
+
+*The Priest who is to bless the Bread and Water then says:*
+
+O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this bread to the souls of all those who partake of it, that they may eat in remembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the name of thy Son, and always remember him and keep his commandments which he has given them; that they may always have his Spirit to be with them. Amen.
+
+O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this water to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them. Amen.
+
+## Our Father
+
+*The Priest then says*
+And now, as our Savior has taught us, we are bold to say:
+
+*People and Celebrant*
+Our Father, who art in heaven,
+    hallowed be thy Name,
+    thy kingdom come,
+    thy will be done,
+        on earth as it is in heaven.
+Give us this day our daily bread.
+And forgive us our trespasses,
+    as we forgive those
+        who trespass against us.
+And lead us not into temptation,
+    but deliver us from evil.
+For thine is the kingdom,
+    and the power, and the glory,
+    for ever and ever. Amen.
+
+*The Celebrant Then Says:*
+
+(Alleluia)The Gifts of God for the People of God, take them in rememberance that Christ died for you (Alleluia).
+*Note, the Alleluia is to be omitted during the seasons of Lent and Advent.*
+
+*The Bread and Water may be silently distributed among the congregation, or may be given in the traditional manner. The one reciving the bread or water may quietly say the following phrase:*
+
+The Body of Christ, the bread of heaven. (Amen.)
+The Blood of Christ, the cup of salvation. (Amen.)
+
+*A Hymn may be sung after the distribution of the sacrament, or may be sung prior to the Great Thanksgiving*
+
+## Prayer Following the Distribution of the Sacrament
+
+Heavenly Father,
+By your mercy you have given us the gift of renewal, that through the sacrament of this bread and water, we may regain our covenants and become like Thee. Send us now into the world in peace, and grant us strength and courage to love and serve Thee with gladness and singlness of heart, through our Lord Jesus Christ, Amen.
 
 ## The Benediction
 
-### Thanking God for the Sacrament
-
-### The Blessing of the People
+Celebrant: 	Go in peace to love and serve the Lord.
+People 	Thanks be to God. (Alleluia, Alleluia)
 
 ### The Benediction Hymn
 
-### The  Benediction
+A hymn may be sung and a closing prayer given, and if appropriate, a recession of the celebrants and servers.
